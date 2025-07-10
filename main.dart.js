@@ -81909,7 +81909,7 @@ K(a){var s=null
 return new A.cO(new A.aK(0,0,0,80),A.fv(A.b([A.mz(B.S,A.dd("The services I offer:",s,s,s,s,s,s,s,$.rI(),s,s,s),B.r,B.bG),B.yo,B.Fc],t.p),B.aA,B.a_,B.X),s)}}
 A.KH.prototype={
 K(a){var s=null,r=t.w
-return A.uI(A.b([A.dd("3.6",s,s,s,s,s,s,s,A.aB(a,s,r).w.a.a<A.bE(B.ad)?$.rI().xy(48):$.rI().xy(96),s,s,s),B.Qn,new A.mB(1,B.ja,A.dd("Years of experience, Specialized in building high-quality mobile apps while ensuring a smooth and responsive experience across web platforms.",s,s,s,s,s,!0,s,this.a5b(A.aB(a,s,r).w.a.a),s,s,s),s)],t.p),B.a8,B.a_,B.X)},
+return A.uI(A.b([A.dd("3.5",s,s,s,s,s,s,s,A.aB(a,s,r).w.a.a<A.bE(B.ad)?$.rI().xy(48):$.rI().xy(96),s,s,s),B.Qn,new A.mB(1,B.ja,A.dd("Years of experience, Specialized in building high-quality mobile apps while ensuring a smooth and responsive experience across web platforms.",s,s,s,s,s,!0,s,this.a5b(A.aB(a,s,r).w.a.a),s,s,s),s)],t.p),B.a8,B.a_,B.X)},
 a5b(a){if(a<A.bE(B.ad))return $.a_p().EH(B.l,B.a0)
 else if(a<A.bE(B.aq))return $.wZ().EH(B.l,B.a0)
 else return $.HJ().EH(B.l,B.a0)}}
@@ -82133,7 +82133,7 @@ s=A.aB(a,p,o).w.a.a<A.bE(B.aq)?$.HJ().cc(B.au):$.aD7().cc(B.au)
 s=A.dd("Vaidik Alagiya",p,p,p,p,p,!0,p,s,A.aB(a,p,o).w.a.a<A.bE(B.ad)?B.bB:B.aN,p,p)
 r=A.aB(a,p,o).w.a.a<A.bE(B.ad)?A.aB(a,p,o).w.a.a-20:A.aB(a,p,o).w.a.a/2.5
 q=A.aB(a,p,o).w.a.a<A.bE(B.aq)?$.wY():$.wZ()
-return A.fv(A.b([m,B.yp,s,B.kj,A.eY(A.dd("Experienced Flutter developer with 3.6 years of building scalable, cross-platform apps using Flutter and Dart. Proficient in Firebase, REST APIs, Razorpay, RevenueCat, and state management (Provider, Bloc, Riverpod, GetX). I turn ideas into clean, efficient, and high-performance mobile apps.",p,p,p,p,p,!0,p,q,A.aB(a,p,o).w.a.a<A.bE(B.ad)?B.bB:B.aN,p,p),p,r),B.Qr,B.Hv],t.p),n,B.a_,B.X)}}
+return A.fv(A.b([m,B.yp,s,B.kj,A.eY(A.dd("Experienced Flutter developer with 3.5 years of building scalable, cross-platform apps using Flutter and Dart. Proficient in Firebase, REST APIs, Razorpay, RevenueCat, and state management (Provider, Bloc, Riverpod, GetX). I turn ideas into clean, efficient, and high-performance mobile apps.",p,p,p,p,p,!0,p,q,A.aB(a,p,o).w.a.a<A.bE(B.ad)?B.bB:B.aN,p,p),p,r),B.Qr,B.Hv],t.p),n,B.a_,B.X)}}
 A.Ni.prototype={
 K(a){var s=null,r=t.p,q=A.b([],r)
 q.push(A.ato(A.JM(B.au,s,s,B.GR,"App Store",new A.ac_(this),s)))
